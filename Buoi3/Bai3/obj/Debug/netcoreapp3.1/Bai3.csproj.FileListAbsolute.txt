@@ -1,0 +1,13 @@
+C:\Users\phand\source\repos\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.exe
+C:\Users\phand\source\repos\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.deps.json
+C:\Users\phand\source\repos\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.runtimeconfig.json
+C:\Users\phand\source\repos\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.runtimeconfig.dev.json
+C:\Users\phand\source\repos\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.dll
+C:\Users\phand\source\repos\Bai3\Bai3\bin\Debug\netcoreapp3.1\Bai3.pdb
+C:\Users\phand\source\repos\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.csprojAssemblyReference.cache
+C:\Users\phand\source\repos\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.csproj.CoreCompileInputs.cache
+C:\Users\phand\source\repos\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.AssemblyInfoInputs.cache
+C:\Users\phand\source\repos\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.AssemblyInfo.cs
+C:\Users\phand\source\repos\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.dll
+C:\Users\phand\source\repos\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.pdb
+C:\Users\phand\source\repos\Bai3\Bai3\obj\Debug\netcoreapp3.1\Bai3.genruntimeconfig.cache
